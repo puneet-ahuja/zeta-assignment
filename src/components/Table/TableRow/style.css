@@ -1,0 +1,11 @@
+.table-row-container {
+    display: flex;
+    justify-content: space-between;
+    height: 40px;
+    line-height: 40px;
+}
+
+.label {
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
