@@ -3,7 +3,7 @@ import EmployeeHeader from '../EmployeeHeader'
 import './style.css';
 import Table from '../Table';
 
-const EmployeePortal = ({headerHeight}) =>{
+const EmployeePortal = () =>{
   return (
     <div className="employee-portal-container" >
         <EmployeeHeader/>

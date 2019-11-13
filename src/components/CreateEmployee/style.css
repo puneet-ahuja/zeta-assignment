@@ -1,0 +1,58 @@
+.overlay {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    opacity: 0.7;
+    z-index: 100;
+    top: 0;
+    left: 0;
+}
+
+.create-employee-container {
+    position:fixed;
+    z-index: 200;
+    width: 300px;
+    height: 80%;
+    background-color: white;
+    top: 10%;
+    left: calc(50% - 150px);
+    overflow: scroll;
+}
+
+create-employee-label {
+    height: 40px;
+}
+
+.row {
+    height: 40px;
+    width: 100%;
+    display: flex;
+}
+
+.label-form {
+    width: 40%;
+    padding-left: 20px;
+}
+
+.error-message{
+    color: red;
+}
+
+.btn {
+    width: 80px;
+    line-height: 38px;
+    border-radius: 3px;
+    text-align: center;
+    margin-left: 20px;
+}
+
+.save-btn {
+    background-color: cadetblue;
+    color: white;
+    border: 1px solid cadeblue;
+}
+
+.clear-btn {
+    border: 1px solid black;
+}

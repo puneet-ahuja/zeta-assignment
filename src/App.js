@@ -23,7 +23,7 @@ function mapDispatchToProps(dispatch) {
   return {
     initilizeList : (employeesList) => dispatch({
       type: 'INITILIZE_EMPLOYEES',
-      payload : employeesList
+      payload : {employeesList, nextId: employeesList.length +1}
     })
   }
   
