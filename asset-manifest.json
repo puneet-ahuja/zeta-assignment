@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/zeta-assignment/static/css/main.428e3e8d.chunk.css",
-    "main.js": "/zeta-assignment/static/js/main.852d24cb.chunk.js",
-    "main.js.map": "/zeta-assignment/static/js/main.852d24cb.chunk.js.map",
+    "main.css": "/zeta-assignment/static/css/main.001587ce.chunk.css",
+    "main.js": "/zeta-assignment/static/js/main.7b51ef71.chunk.js",
+    "main.js.map": "/zeta-assignment/static/js/main.7b51ef71.chunk.js.map",
     "runtime-main.js": "/zeta-assignment/static/js/runtime-main.a9f3b841.js",
     "runtime-main.js.map": "/zeta-assignment/static/js/runtime-main.a9f3b841.js.map",
-    "static/js/2.daf24b65.chunk.js": "/zeta-assignment/static/js/2.daf24b65.chunk.js",
-    "static/js/2.daf24b65.chunk.js.map": "/zeta-assignment/static/js/2.daf24b65.chunk.js.map",
+    "static/js/2.6daed112.chunk.js": "/zeta-assignment/static/js/2.6daed112.chunk.js",
+    "static/js/2.6daed112.chunk.js.map": "/zeta-assignment/static/js/2.6daed112.chunk.js.map",
     "index.html": "/zeta-assignment/index.html",
-    "precache-manifest.916dd17727eec4e5b23a208b3ea77a01.js": "/zeta-assignment/precache-manifest.916dd17727eec4e5b23a208b3ea77a01.js",
+    "precache-manifest.722128ac1eaba8f582ba073b99e2814e.js": "/zeta-assignment/precache-manifest.722128ac1eaba8f582ba073b99e2814e.js",
     "service-worker.js": "/zeta-assignment/service-worker.js",
-    "static/css/main.428e3e8d.chunk.css.map": "/zeta-assignment/static/css/main.428e3e8d.chunk.css.map"
+    "static/css/main.001587ce.chunk.css.map": "/zeta-assignment/static/css/main.001587ce.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.a9f3b841.js",
-    "static/js/2.daf24b65.chunk.js",
-    "static/css/main.428e3e8d.chunk.css",
-    "static/js/main.852d24cb.chunk.js"
+    "static/js/2.6daed112.chunk.js",
+    "static/css/main.001587ce.chunk.css",
+    "static/js/main.7b51ef71.chunk.js"
   ]
 }
